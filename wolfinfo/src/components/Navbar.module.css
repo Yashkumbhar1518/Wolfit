@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+body{
+    background-color:linear-gradient(90deg, rgba(252,176,69,1) -50%, rgba(123,24,190,0.8128501400560224) 17%, rgba(218,31,91,0.8828781512605042) 93%);
+}
